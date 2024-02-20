@@ -1,0 +1,8 @@
+requests~=2.31.0
+aiopg==1.4.0
+aioredis==2.0.1
+fastapi==0.109.0
+pydantic==2.5.3
+psycopg2-binary==2.9.9
+redis==5.0.1
+loguru==0.7.2
